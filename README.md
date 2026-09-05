@@ -8,6 +8,7 @@ Welcome to my Cybersecurity portfolio! Here you can find quick links towards my 
 | Pihole/Tailscale Homelab | [🔗](https://github.com/rynverse/pihole-tailscale-homelab) | Write-up/Guide |
 | Capture the Flag Write-ups | [🔗](https://github.com/rynverse/ctf-writeups) | Scripts/Write-ups/Guides |
 | Password Checker | [🔗](https://github.com/rynverse/password-checker) | Script |
+| Java Port Scanner | [🔗](https://github.com/rynverse/java-portscanner) | Script |
 
 ## 🏆 Achievements
 | Name | Description | Link |
